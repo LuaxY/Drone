@@ -113,7 +113,7 @@ h3 a,
 }
 h3 a:hover,
 .h3 a:hover {
-  color: #dc4e41;
+  color: #335b88;
 }
 h4,
 .h4 {
@@ -131,7 +131,7 @@ h4 a,
 }
 h4 a:hover,
 .h4 a:hover {
-  color: #dc4e41;
+  color: #335b88;
 }
 h5,
 .h5 {
@@ -246,7 +246,7 @@ blockquote p {
 }
 blockquote footer {
   float: none !important;
-  color: #dc4e41;
+  color: #335b88;
 }
 blockquote:after {
   content: "\f10e";
@@ -307,7 +307,7 @@ blockquote:before {
   font-size: 11rem;
   line-height: 16.5rem;
   text-transform: uppercase;
-  color: #dc4e41;
+  color: #335b88;
   width: 100%;
   opacity: .15;
 }
@@ -328,7 +328,7 @@ blockquote:before {
   text-transform: uppercase;
 }
 .lgx-heading-brand .back-heading {
-  color: #dc4e41;
+  color: #335b88;
 }
 .lgx-heading-brand .heading {
   color: #fff;
@@ -341,7 +341,7 @@ blockquote:before {
 ---------------------------------------------------------------------*/
 .lgx-btn {
   font-family: 'Oswald', sans-serif;
-  background: #42bd41;
+  background: #a41baa;
   padding: 1rem 2.6rem;
   color: #fff;
   overflow: hidden;
@@ -364,7 +364,7 @@ blockquote:before {
   transition: all 0.3s ease-in-out 0s;
 }
 .lgx-btn:hover {
-  background: #dc4e41;
+  background: #335b88;
   color: #fff;
 }
 .lgx-btn:hover span {
@@ -377,10 +377,10 @@ blockquote:before {
   animation-timing-function: linear;
 }
 .lgx-btn-brand {
-  background: #dc4e41;
+  background: #335b88;
 }
 .lgx-btn-brand:hover {
-  background: #42bd41;
+  background: #a41baa;
 }
 .lgx-btn-big {
   font-size: 16px;
@@ -696,7 +696,7 @@ button {
 }
 .lgx-header .lgx-navbar .lgx-nav li a:hover {
   background: transparent;
-  color: #dc4e41;
+  color: #335b88;
   opacity: 1;
 }
 .lgx-header .lgx-navbar .lgx-nav li .lgx-btn {
@@ -708,12 +708,12 @@ button {
   transition: all 0s ease-in-out 0s;
 }
 .lgx-header .lgx-navbar .lgx-nav li .lgx-btn:hover {
-  background: #dc4e41;
+  background: #335b88;
   color: #fff;
 }
 .lgx-header .lgx-navbar .lgx-nav .active a {
   background: transparent;
-  color: #dc4e41;
+  color: #335b88;
 }
 .lgx-header .lgx-navbar .lgx-logo {
   -webkit-animation-name: fadeInRight;
@@ -747,11 +747,11 @@ button {
   line-height: 2.0999999999999996rem;
 }
 .lgx-header .lgx-navbar .lgx-nav .dropdown-menu li a b {
-  color: #dc4e41;
+  color: #335b88;
 }
 .lgx-header .lgx-navbar .lgx-nav .dropdown-menu li a:hover {
   background: transparent;
-  color: #dc4e41;
+  color: #335b88;
   opacity: 1;
 }
 .single .lgx-header .lgx-navbar .lgx-nav .dropdown-menu,
@@ -771,7 +771,7 @@ button {
 .single-post .lgx-header .lgx-navbar .lgx-nav .dropdown-menu li a b,
 .page .lgx-header .lgx-navbar .lgx-nav .dropdown-menu li a b,
 .page-template .lgx-header .lgx-navbar .lgx-nav .dropdown-menu li a b {
-  color: #dc4e41;
+  color: #335b88;
 }
 .menu-onscroll {
   background: rgba(46, 40, 65, 0.95);
@@ -791,7 +791,7 @@ button {
   box-shadow: 0 3px 5px rgba(66, 189, 65, 0.1);
 }
 .menu-onscroll .lgx-toggle {
-  color: #dc4e41;
+  color: #335b88;
   top: 15px;
 }
 .menu-onscroll .lgx-navbar .lgx-nav li a {
@@ -800,7 +800,7 @@ button {
 }
 .menu-onscroll .lgx-navbar .lgx-nav li a:hover {
   background: transparent;
-  color: #dc4e41;
+  color: #335b88;
   opacity: 1;
 }
 .menu-onscroll .lgx-navbar .lgx-nav li .lgx-btn {
@@ -812,7 +812,7 @@ button {
 }
 .menu-onscroll .lgx-navbar .lgx-nav .active a {
   background: transparent;
-  color: #dc4e41;
+  color: #335b88;
   opacity: 1;
 }
 .menu-onscroll .lgx-navbar .lgx-logo {
@@ -828,17 +828,17 @@ button {
   transition: all 0.2s ease-in-out 0s;
 }
 .lgx-header-white .lgx-toggle {
-  color: #dc4e41;
+  color: #335b88;
 }
 .lgx-header-white .lgx-navbar .lgx-nav li a {
   color: #2e2841;
   opacity: .7;
 }
 .lgx-header-white .lgx-navbar .lgx-nav li a:hover {
-  color: #dc4e41;
+  color: #335b88;
 }
 .lgx-header-white .lgx-navbar .lgx-nav .active a {
-  color: #dc4e41;
+  color: #335b88;
 }
 /*Animation*/
 @-webkit-keyframes fadeInRight {
@@ -966,7 +966,7 @@ button {
   margin: 0;
 }
 .lgx-banner .subtitle span {
-  color: #42bd41;
+  color: #a41baa;
   font-weight: 700;
 }
 .lgx-banner .title {
@@ -979,7 +979,7 @@ button {
   text-transform: uppercase;
 }
 .lgx-banner .title span {
-  color: #42bd41;
+  color: #a41baa;
 }
 .lgx-banner .date {
   font-family: 'Lora', serif;
@@ -993,7 +993,7 @@ button {
   margin-top: 0;
 }
 .lgx-banner .date span {
-  color: #dc4e41;
+  color: #335b88;
 }
 .lgx-banner .text {
   padding: 0 10%;
@@ -1080,7 +1080,7 @@ button {
   background-color: transparent;
 }
 .lgx-banneranother .lgx-inner-bg {
-  
+
   padding: 27rem 0 22rem;
 }
 .lgx-banneranother .date {
@@ -1090,7 +1090,7 @@ button {
   font-size: 4.2rem;
   line-height: 6.300000000000001rem;
   font-weight: 700;
-  color: #42bd41;
+  color: #a41baa;
   margin: 0;
   font-style: normal;
 }
@@ -1158,7 +1158,7 @@ button {
 .lgx-slider .owl-controls .owl-nav [class*=owl-] {
   height: 60px;
   width: 60px;
-  background: #dc4e41;
+  background: #335b88;
   color: #fff;
   border-radius: 50%;
   -webkit-box-shadow: 1px 2px 10px rgba(52, 61, 71, 0.3);
@@ -1167,7 +1167,7 @@ button {
 }
 .lgx-slider .owl-controls .owl-nav [class*=owl-]:hover {
   background: #fff;
-  color: #dc4e41;
+  color: #335b88;
 }
 .lgx-slider .owl-prev,
 .lgx-slider .owl-next {
@@ -1305,7 +1305,7 @@ button {
   margin: 0;
 }
 .lgx-slider .slider-text-single figure figcaption .lgx-container .lgx-hover-link .lgx-vertical .lgx-subtitle span {
-  color: #42bd41;
+  color: #a41baa;
   font-weight: 700;
 }
 .lgx-slider .slider-text-single figure figcaption .lgx-container .lgx-hover-link .lgx-vertical .lgx-title {
@@ -1318,7 +1318,7 @@ button {
   text-transform: uppercase;
 }
 .lgx-slider .slider-text-single figure figcaption .lgx-container .lgx-hover-link .lgx-vertical .lgx-title span {
-  color: #42bd41;
+  color: #a41baa;
 }
 .lgx-slider .slider-text-single figure figcaption .lgx-container .lgx-hover-link .lgx-vertical .date {
   font-family: 'Lora', serif;
@@ -1332,7 +1332,7 @@ button {
   margin-top: 0;
 }
 .lgx-slider .slider-text-single figure figcaption .lgx-container .lgx-hover-link .lgx-vertical .date span {
-  color: #dc4e41;
+  color: #335b88;
 }
 .lgx-slider .slider-text-single figure figcaption .lgx-container .lgx-hover-link .lgx-vertical .text {
   padding: 0 10%;
@@ -1430,7 +1430,7 @@ button {
 }
 .lgx-contentslider .lgx-owlcontslider .owl-controls .owl-nav [class*=owl-] {
   background: rgba(46, 40, 65, 0.9);
-  color: #42bd41;
+  color: #a41baa;
   font-size: 26px;
   margin: 5px;
   padding: 10px 18px;
@@ -1449,7 +1449,7 @@ button {
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.25);
 }
 .lgx-contentslider .lgx-owlcontslider .owl-controls .owl-nav [class*=owl-]:hover {
-  background: #42bd41;
+  background: #a41baa;
   color: #fff;
 }
 .lgx-contentslider .lgx-owlcontslider:hover .owl-controls .owl-nav [class*=owl-] {
@@ -1669,7 +1669,7 @@ button {
   line-height: 39px;
   font-size: 2.6rem;
   line-height: 3.9000000000000004rem;
-  color: #dc4e41;
+  color: #335b88;
   padding: 0 .3rem;
 }
 .lgx-speakers .lgx-single-speaker .speaker-info {
@@ -1697,10 +1697,10 @@ button {
   font-weight: 400;
   font-style: italic;
   margin: 0;
-  color: #dc4e41;
+  color: #335b88;
 }
 .lgx-speakers .lgx-single-speaker:hover {
-  background: #dc4e41;
+  background: #335b88;
 }
 .lgx-speakers .lgx-single-speaker:hover figure figcaption {
   opacity: 1;
@@ -1765,7 +1765,7 @@ button {
   font-size: 2.6rem;
   line-height: 3.9000000000000004rem;
   font-weight: 400;
-  color: #dc4e41;
+  color: #335b88;
   margin-top: 0;
 }
 .lgx-speaker-single .social {
@@ -1797,10 +1797,10 @@ button {
   line-height: 53px;
 }
 .lgx-speaker-single .social ul li:hover {
-  background: #dc4e41;
+  background: #335b88;
 }
 .lgx-speaker-single .social ul li:hover a {
-  color: #42bd41;
+  color: #a41baa;
 }
 .lgx-speaker-single .social ul li:hover a i {
   -webkit-animation-name: zoomIn;
@@ -1869,7 +1869,7 @@ button {
   height: 11rem;
   width: 11rem;
   display: inline-block;
-  color: #dc4e41;
+  color: #335b88;
   border-radius: 50%;
 }
 .lgx-video .video-icon a img {
@@ -2001,18 +2001,18 @@ button {
   margin: 0;
 }
 .lgx-schedule .lgx-tab .nav-pills li a h3 span {
-  color: #dc4e41;
+  color: #335b88;
 }
 .lgx-schedule .lgx-tab .nav-pills li a p {
   font-style: italic;
   margin: 0;
 }
 .lgx-schedule .lgx-tab .nav-pills li a p span {
-  color: #dc4e41;
+  color: #335b88;
   font-weight: 700;
 }
 .lgx-schedule .lgx-tab .nav-pills .active {
-  background: #dc4e41;
+  background: #335b88;
   position: relative;
   -moz-box-shadow: 3px 4px 15px rgba(52, 61, 71, 0.49);
   -webkit-box-shadow: 3px 4px 15px rgba(52, 61, 71, 0.49);
@@ -2027,7 +2027,7 @@ button {
   height: 0;
   border-left: 60px solid transparent;
   border-right: 60px solid transparent;
-  border-top: 60px solid #dc4e41;
+  border-top: 60px solid #335b88;
   top: 50%;
   left: 22%;
 }
@@ -2060,7 +2060,7 @@ button {
 }
 .lgx-schedule .lgx-tab .lgx-single-tab .time-area .time span {
   display: block;
-  color: #dc4e41;
+  color: #335b88;
   font-size: 26px;
   line-height: 39px;
   font-size: 2.6rem;
@@ -2094,7 +2094,7 @@ button {
   color: inherit;
 }
 .lgx-schedule .lgx-tab .lgx-single-tab .author .author-info .author-title {
-  color: #dc4e41;
+  color: #335b88;
   margin: 0;
 }
 .lgx-schedule .lgx-tab .lgx-single-tab .schedule-info {
@@ -2109,7 +2109,7 @@ button {
   color: inherit;
 }
 .lgx-schedule .lgx-tab .lgx-single-tab:hover {
-  background: #dc4e41;
+  background: #335b88;
   color: #fff;
   border-radius: 0;
 }
@@ -2180,7 +2180,7 @@ button {
   font-size: 2.6rem;
   line-height: 3.9000000000000004rem;
   font-weight: 700;
-  color: #dc4e41;
+  color: #335b88;
   text-transform: uppercase;
   text-align: center;
   margin: 4.2rem 0 2.6rem 0;
@@ -2219,7 +2219,7 @@ button {
   max-width: 180px;
 }
 .lgx-sponsors .sponsors-area .single:hover {
-  background: #dc4e41;
+  background: #335b88;
 }
 .lgx-sponsors .sponsors-area .single:hover a img {
   -webkit-animation-name: zoomIn;
@@ -2264,7 +2264,7 @@ button {
 }
 .lgx-register .single {
   background: rgba(46, 40, 65, 0.85);
-  border: 1px solid #dc4e41;
+  border: 1px solid #335b88;
   text-align: center;
   padding: 1rem;
   border-radius: 6px;
@@ -2328,10 +2328,10 @@ button {
   color: rgba(46, 40, 65, 0.8);
 }
 .lgx-register .single .single-bottom ul li i {
-  color: #42bd41;
+  color: #a41baa;
 }
 .lgx-register .single .single-bottom ul li .fa-times {
-  color: #dc4e41;
+  color: #335b88;
 }
 .lgx-register .single:hover .single-top {
   padding: 4.2rem 1.5rem 2.6rem;
@@ -2351,7 +2351,7 @@ button {
   color: rgba(46, 40, 65, 0.8);
 }
 .lgx-register .active {
-  background: rgba(220, 78, 65, 0.85);
+  background: #335b88;
 }
 .lgx-register-slider {
   background: url('http://placehold.it/1920x1002') center center no-repeat fixed;
@@ -2386,7 +2386,7 @@ button {
   padding: 0;
 }
 .lgx-photo-gallery .lgx-single {
-  background: #dc4e41;
+  background: #335b88;
   float: left;
   margin: 0 auto;
   width: 25%;
@@ -2427,7 +2427,7 @@ button {
   transition: all 0.3s linear;
 }
 .lgx-photo-gallery .lgx-single figure figcaption .lgx-hover-link .lgx-vertical a:hover {
-  color: #dc4e41;
+  color: #335b88;
 }
 .lgx-photo-gallery .lgx-single:hover figure figcaption {
   opacity: 1;
@@ -2443,7 +2443,7 @@ button {
   display: block;
 }
 .lgx-photo-gallery .lgx-single:hover figure figcaption .lgx-hover-link .lgx-vertical a:hover {
-  color: #dc4e41;
+  color: #335b88;
 }
 /*-------------------------------------------------------------------*/
 /* 2.11  Blog
@@ -2513,7 +2513,7 @@ button {
 }
 .lgx-blog .lgx-card-single .content .cat-icon span {
   background: rgba(220, 78, 65, 0.1);
-  border-left: 2px solid #dc4e41;
+  border-left: 2px solid #335b88;
   height: 60px;
   width: 58px;
   display: inline-block;
@@ -2525,7 +2525,7 @@ button {
   transition: all 0.3s ease-in-out 0.2s;
 }
 .lgx-blog .lgx-card-single .content .cat-icon span i {
-  color: #dc4e41;
+  color: #335b88;
   line-height: 60px;
   font-size: 26px;
 }
@@ -2552,7 +2552,7 @@ button {
   color: inherit;
 }
 .lgx-blog .lgx-card-single .content .text-area .title:hover {
-  color: #dc4e41;
+  color: #335b88;
 }
 .lgx-blog .lgx-card-single .content .text-area .title:hover a {
   color: inherit;
@@ -2597,7 +2597,7 @@ button {
   /* for Safari */
   background-clip: padding-box;
   /* for IE9+, Firefox 4+, Opera, Chrome */
-  background: #dc4e41;
+  background: #335b88;
   /*.card-inner {
         position: relative;
         top: -50px;
@@ -2671,7 +2671,7 @@ button {
   width: auto;
   max-width: 180px;
   display: inline-block;
-  border: 4px solid #dc4e41;
+  border: 4px solid #335b88;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
@@ -2684,7 +2684,7 @@ button {
   z-index: 2;
   bottom: 0;
   right: 0;
-  color: #dc4e41;
+  color: #335b88;
   background-color: #fff;
   height: 50px;
   width: 50px;
@@ -2694,7 +2694,7 @@ button {
   border: 4px solid #fff;
 }
 .lgx-testimonials .lgx-owltestimonial .item .lgx-client-image figcaption i {
-  color: #dc4e41;
+  color: #335b88;
   font-size: 26px;
   line-height: 46px;
 }
@@ -2726,7 +2726,7 @@ button {
   font-size: inherit;
   display: block;
   opacity: .7;
-  color: #dc4e41;
+  color: #335b88;
 }
 .lgx-testimonials .lgx-owltestimonial .owl-controls {
   margin: 0;
@@ -2738,18 +2738,18 @@ button {
 }
 .lgx-testimonials .lgx-owltestimonial .owl-controls .owl-nav [class*=owl-] i {
   font-size: 40px;
-  color: #dc4e41;
+  color: #335b88;
   font-weight: 400;
 }
 .lgx-testimonials .lgx-owltestimonial .owl-controls .owl-nav [class*=owl-]:hover {
-  background-color: #dc4e41;
+  background-color: #335b88;
 }
 .lgx-testimonials .lgx-owltestimonial .owl-controls .owl-nav [class*=owl-]:hover i {
   color: #fff;
 }
 .lgx-testimonials .lgx-owltestimonial .owl-controls .owl-nav .owl-prev,
 .lgx-testimonials .lgx-owltestimonial .owl-controls .owl-nav .owl-next {
-  color: #dc4e41;
+  color: #335b88;
   -moz-transition: all 0.3s ease-in 0s;
   -o-transition: all 0.3s ease-in 0s;
   -webkit-transition: all 0.3s ease-in 0s;
@@ -2762,7 +2762,7 @@ button {
 }
 .lgx-testimonials .lgx-owltestimonial .owl-controls .owl-nav .owl-prev:hover,
 .lgx-testimonials .lgx-owltestimonial .owl-controls .owl-nav .owl-next:hover {
-  background: #dc4e41;
+  background: #335b88;
   color: #fff;
   -webkit-box-shadow: 1px 2px 10px rgba(52, 61, 71, 0.3);
   -moz-box-shadow: 1px 2px 10px rgba(52, 61, 71, 0.3);
@@ -2827,7 +2827,7 @@ button {
   margin-bottom: 2.6rem;
 }
 .lgx-contact .contact-info .lgx-box .address .title {
-  color: #dc4e41;
+  color: #335b88;
   font-weight: 400;
   letter-spacing: normal;
   margin: 0;
@@ -2882,7 +2882,7 @@ button {
   line-height: 3.9000000000000004rem;
   text-transform: uppercase;
   margin: 0;
-  color: #42bd41;
+  color: #a41baa;
 }
 /*-------------------------------------------------------------------*/
 /* 2.15 circular-countdown.less
@@ -2968,7 +2968,7 @@ button {
   width: 19%;
   margin-left: 1%;
   font-family: 'Oswald', sans-serif;
-  background: #42bd41;
+  background: #a41baa;
   color: #fff;
   text-transform: uppercase;
   -webkit-transition: all 0.3s ease-in-out 0s;
@@ -2977,7 +2977,7 @@ button {
   transition: all 0.3s ease-in-out 0s;
 }
 .lgx-footer .lgx-subscriber-area .subscribe-form .the-submit-btn:hover {
-  background: #dc4e41;
+  background: #335b88;
 }
 .lgx-footer .lgx-subscriber-area .subscribe-form .the-submit-btn:hover span {
   display: block;
@@ -3019,7 +3019,7 @@ button {
   line-height: 62px;
 }
 .lgx-footer .footer-social ul li:hover {
-  background: #dc4e41;
+  background: #335b88;
 }
 .lgx-footer .footer-social ul li:hover a {
   color: #000;
@@ -3042,13 +3042,13 @@ button {
   font-style: italic;
 }
 .lgx-footer .lgx-copyright .themename {
-  color: #dc4e41;
+  color: #335b88;
 }
 .lgx-footer .lgx-copyright .text {
   opacity: .4;
 }
 .lgx-footer .lgx-copyright a {
-  color: #42bd41;
+  color: #a41baa;
   opacity: .4;
   -webkit-transition: all 0.3s ease-in-out 0s;
   -moz-transition: all 0.3s ease-in-out 0s;
@@ -3164,14 +3164,14 @@ button {
 .single-post .breadcrumb .active,
 .page .breadcrumb .active,
 .page-template .breadcrumb .active {
-  color: #dc4e41;
+  color: #335b88;
 }
 .single .breadcrumb > li + li:before,
 .single-post .breadcrumb > li + li:before,
 .page .breadcrumb > li + li:before,
 .page-template .breadcrumb > li + li:before {
   padding: 0 5px;
-  color: #42bd41;
+  color: #a41baa;
   content: "/\00a0";
   opacity: .7;
 }
@@ -3225,7 +3225,7 @@ button {
 .lgx-blog-single .lgx-card-single header .author .comtitle {
   margin-top: 0;
   margin-bottom: 2rem;
-  color: #dc4e41;
+  color: #335b88;
   font-weight: 400;
   font-style: italic;
 }
@@ -3258,7 +3258,7 @@ button {
   color: inherit;
 }
 .lgx-blog-single .lgx-card-single header .text-area .title:hover {
-  color: #dc4e41;
+  color: #335b88;
 }
 .lgx-blog-single .lgx-card-single header .text-area .title:hover a {
   color: inherit;
@@ -3326,7 +3326,7 @@ button {
   font-family: 'Oswald', sans-serif;
   text-transform: uppercase;
   font-weight: 400;
-  color: #dc4e41;
+  color: #335b88;
   border-bottom: 1px solid rgba(52, 61, 71, 0.1);
   -webkit-background-clip: padding-box;
   /* for Safari */
@@ -3362,10 +3362,10 @@ button {
   line-height: 53px;
 }
 .lgx-blog-single .lgx-card-single footer .lgx-share ul li:hover {
-  background: #dc4e41;
+  background: #335b88;
 }
 .lgx-blog-single .lgx-card-single footer .lgx-share ul li:hover a {
-  color: #42bd41;
+  color: #a41baa;
 }
 .lgx-blog-single .lgx-card-single footer .lgx-share ul li:hover a i {
   -webkit-animation-name: zoomIn;
@@ -3382,7 +3382,7 @@ button {
   height: 40px;
   width: 40px;
   background: #fff;
-  color: #dc4e41;
+  color: #335b88;
   display: inline-block;
   text-align: center;
   border-radius: 50%;
@@ -3392,7 +3392,7 @@ button {
   line-height: 40px;
 }
 .lgx-blog-single .lgx-card-single footer .lgx-sharess li a:hover {
-  background: #dc4e41;
+  background: #335b88;
   color: #fff;
 }
 .lgx-blog-single .lgx-card-single:hover {
@@ -3536,7 +3536,7 @@ button {
   .lgx-schedule .lgx-tab .nav-pills .active::before {
     border-left: 50px solid transparent;
     border-right: 50px solid transparent;
-    border-top: 50px solid #dc4e41;
+    border-top: 50px solid #335b88;
     left: 16%;
   }
   .lgx-register .single {
@@ -3678,10 +3678,10 @@ button {
     float: left;
   }
   .navbar-default .navbar-toggle {
-    border-color: #dc4e41;
+    border-color: #335b88;
   }
   .navbar-default .navbar-toggle .icon-bar {
-    background-color: #dc4e41;
+    background-color: #335b88;
   }
   .lgx-footer .lgx-subscriber-area .subscribe-form .lgx-input-form {
     padding-left: 1rem;
@@ -3904,7 +3904,7 @@ button {
   .lgx-testimonials .lgx-owltestimonial .owl-controls .owl-nav .owl-prev:hover {
     background: transparent;
     box-shadow: none;
-    color: #42bd41;
+    color: #a41baa;
     opacity: 1;
   }
   .lgx-testimonials .lgx-inner {
@@ -3979,7 +3979,7 @@ button {
     max-width: 100px;
   }
   .lgx-testimonials .lgx-owltestimonial .item .lgx-client-image figcaption {
-    border: 2px solid #dc4e41;
+    border: 2px solid #335b88;
     bottom: -6px;
     height: 35px;
     width: 35px;
@@ -4102,6 +4102,8 @@ button {
 /*  LGX STYLE END ***************************************************
 *********************************************************************/
 
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
 #lgx-footer .bref h3 {
     text-align: left;
     margin-left: 38px;
@@ -4111,9 +4113,9 @@ button {
     text-align: right;
 }
 
-#lgx-footer .bref ul,
-#lgx-footer .info ul {
+#lgx-footer li {
     list-style: none;
+    font-family: Lato !important;
 }
 
 #lgx-footer .bref ul li {
