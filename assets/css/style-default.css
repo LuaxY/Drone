@@ -1058,7 +1058,7 @@ button {
 /* FOR HOME PAGE 4 Banner Area
 -------------------------------------------*/
 .lgx-banneranother {
-  background: url('http://placehold.it/1920x861') top center no-repeat fixed;
+  background: url('../img/drone1.jpg') top center no-repeat fixed;
   -webkit-background-size: cover;
   -o-background-size: cover;
   -moz-background-size: cover;
@@ -1069,43 +1069,18 @@ button {
   margin-left: 1rem;
 }
 .lgx-banneranother .lgx-banner-style {
-  background: -moz-linear-gradient(top, rgba(46, 52, 57, 0.8) 0%, rgba(220, 78, 65, 0.7) 200%);
-  /* FF3.6+ */
-  background: -webkit-gradient(linear, left top, left right, color-stop(0%, rgba(46, 52, 57, 0.8)), color-stop(100%, rgba(220, 78, 65, 0.7)));
-  /* Chrome,Safari4+ */
-  background: -webkit-linear-gradient(top, rgba(46, 52, 57, 0.8) 0%, rgba(220, 78, 65, 0.7) 200%);
-  /* Chrome10+,Safari5.1+ */
-  background: -o-linear-gradient(top, rgba(46, 52, 57, 0.8) 0%, rgba(220, 78, 65, 0.7) 200%);
-  /* Opera 11.10+ */
-  background: -ms-linear-gradient(top, rgba(46, 52, 57, 0.8) 0%, rgba(220, 78, 65, 0.7) 200%);
-  /* IE10+ */
-  background: linear-gradient(to right, rgba(46, 52, 57, 0.8) 0%, rgba(220, 78, 65, 0.7) 200%);
-  /* W3C */
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='rgba(46, 52, 57, 0.8)', endColorstr='rgba(220, 78, 65, 0.7)', GradientType=0);
-  /* IE6-9 */
+  background: rgba(46, 40, 65, 0.9);
 }
 .lgx-banneranother .lgx-inneranother {
-  background: url('http://placehold.it/782x905') bottom right no-repeat;
+  background: url('../img/drone.png') bottom right no-repeat;
   -webkit-background-size: auto auto, cover;
   -o-background-size: auto auto, cover;
   -moz-background-size: auto auto, cover;
   background-size: auto auto, cover;
+  background-color: transparent;
 }
 .lgx-banneranother .lgx-inner-bg {
-  background: -moz-linear-gradient(top, rgba(46, 52, 57, 0.5) 0%, rgba(220, 78, 65, 0.3) 200%);
-  /* FF3.6+ */
-  background: -webkit-gradient(linear, left top, left right, color-stop(0%, rgba(46, 52, 57, 0.5)), color-stop(100%, rgba(220, 78, 65, 0.3)));
-  /* Chrome,Safari4+ */
-  background: -webkit-linear-gradient(top, rgba(46, 52, 57, 0.5) 0%, rgba(220, 78, 65, 0.3) 200%);
-  /* Chrome10+,Safari5.1+ */
-  background: -o-linear-gradient(top, rgba(46, 52, 57, 0.5) 0%, rgba(220, 78, 65, 0.3) 200%);
-  /* Opera 11.10+ */
-  background: -ms-linear-gradient(top, rgba(46, 52, 57, 0.5) 0%, rgba(220, 78, 65, 0.3) 200%);
-  /* IE10+ */
-  background: linear-gradient(to right, rgba(46, 52, 57, 0.5) 0%, rgba(220, 78, 65, 0.3) 200%);
-  /* W3C */
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='rgba(46, 52, 57, 0.5)', endColorstr='rgba(220, 78, 65, 0.3)', GradientType=0);
-  /* IE6-9 */
+  
   padding: 27rem 0 22rem;
 }
 .lgx-banneranother .date {
